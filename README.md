@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Davanesh,<br>
+👋 Hi, I'm Davanesh,<br><br>
 🔭 I’m currently working on:<br><ul>
 <li>Uber Clone, a ride-sharing app that includes features like booking rides, real-time location tracking, driver and rider matching, and payment integration.</li>
 </ul><br>
@@ -30,7 +30,7 @@
 When I’m not coding, I enjoy exploring new tech courses, building innovative app ideas for competitions, and brainstorming solutions to real-world challenges.<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/davanesh-saminathan) <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/davanesh-saminathan) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=github&logoColor=white)](https://davanesh.vercel.app/)
 
 # 💻 Tech Stack:
