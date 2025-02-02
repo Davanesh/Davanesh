@@ -16,13 +16,11 @@
 
 💡 I’m looking for help with:<br><ul>
 <li>Hosting and optimizing my portfolio website for production-ready performance.</li>
-<li>Implementing 3D and VR features in web apps using Three.js and WebVR.js.</li>
 <li>Best practices for building scalable and efficient cloud storage management platforms.</li>
 </ul><br>
 
 💬 Ask me about:<br><ul>
-<li>React.js, Node.js, and Express.js for full-stack development.</li>
-<li>Building e-commerce and marketplace platforms with user authentication and payment integration.</li>
+<li>React.js,Next.js, Node.js, Express.js and Java Spring for full-stack development.</li>
 <li>AWS for cloud-based solutions and hosting, and how to optimize app performance.</li>
 </ul><br>
 
