@@ -10,7 +10,7 @@
 </ul><br>
 
 🤝 I’m looking to collaborate on:<br><ul>
-<li>Open-source projects involving React.js, React Native, and Node.js.</li>
+<li>Open-source projects involving React.js, Next.js React Native, Node.js and Spring</li>
 <li>Hackathon projects that aim to solve real-world problems, particularly those that use cloud computing and real-time systems.</li>
 </ul><br>
 
