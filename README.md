@@ -79,4 +79,5 @@ My commits are 90% code, 10% “why isn’t this working??” — but somehow it
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/Davanesh/Davanesh/blob/output/github-contribution-grid-snake.svg)
+
