@@ -1,5 +1,3 @@
-<div align="center">
-
 # 💫 About Me:
 ### 👨‍💻 I'm currently working on  
 AutoFlow.AI — a smart workflow orchestrator with Go microservices, AWS (Lambda, Step Functions, ECS, Terraform), and a React drag-and-drop builder 🎯  
@@ -19,12 +17,12 @@ React, Node.js, Express, MongoDB, AWS, Cloud Integration, or how to connect back
 
 ### 🎯 Fun fact  
 My commits are 90% code, 10% “why isn’t this working??” — but somehow it *always* ends up working right before I give up 😭🔥  
-
+<div align="center">
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davanesh-saminathan/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://davaneshs-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davanesh-saminathan/) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://davaneshs-portfolio.vercel.app)
+
 
 ---
 
