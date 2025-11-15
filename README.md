@@ -79,5 +79,6 @@ My commits are 90% code, 10% “why isn’t this working??” — but somehow it
 
 </div>
 
-![snake animation](https://raw.githubusercontent.com/Davanesh/Davanesh/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Davanesh/Davanesh/blob/output/github-contribution-grid-snake.svg)
+
 
